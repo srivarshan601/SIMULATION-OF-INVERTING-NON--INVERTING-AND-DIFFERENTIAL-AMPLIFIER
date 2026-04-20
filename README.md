@@ -14,16 +14,23 @@ SOFTWARE REQUIRED:
 7. Click on the run option ->simulation window opens->place the probe ->output graph is obtained. 
 
 ## CIRCUIT DIAGRAM: Inverting amplifier: 
+<img width="1065" height="608" alt="image" src="https://github.com/user-attachments/assets/95ced1f7-aa00-45e9-ba65-a083c7f95bd3" />
 
 ## GRAPH: Inverting amplifier: 
+<img width="1039" height="613" alt="image" src="https://github.com/user-attachments/assets/5214063a-d96d-4a4e-bdc9-da4bd4327601" />
 
 ## CIRCUIT DIAGRAM: Non inverting amplifier:
+<img width="1057" height="607" alt="image" src="https://github.com/user-attachments/assets/923bf82c-f553-4ced-821f-3a67cd0debce" />
 
 ## GRAPH: Non inverting amplifier:
+<img width="1053" height="602" alt="image" src="https://github.com/user-attachments/assets/66899a47-6b0b-41b7-8c8f-36320d0a88f6" />
 
 ## CIRCUIT DIAGRAM: Differential amplifier: 
+<img width="1073" height="621" alt="image" src="https://github.com/user-attachments/assets/a83c8bfa-7e04-4372-aae8-8ff8d30f6176" />
 
 ## GRAPH: Differential amplifier:
+<img width="1094" height="615" alt="image" src="https://github.com/user-attachments/assets/ee5bf5f8-f7f2-4bad-9d5d-d357e000069d" />
 
 ## RESULT:
+<img width="1027" height="770" alt="image" src="https://github.com/user-attachments/assets/7a7796e3-cf31-4bb4-8cbb-7e7c2f66a2e2" />
 
